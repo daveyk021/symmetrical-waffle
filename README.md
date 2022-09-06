@@ -1,5 +1,5 @@
 # symmetrical-waffle
-VB6 Screen Shots, and other software,  from TDS5054 and TDS3000 Scopes
+VB6 ScreenShots, and other software,  from TDS5054 and TDS3000 Scopes
  '**********************************************************************************************************************************************************
  '******** Written by David Kuhn of Klassic Benchmark NDE Repair and Calibration Servicess, LLC., September 2022                                    ********
  '******** klassicbenchmark@gmail.com                                                                                                               ********
